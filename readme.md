@@ -1,24 +1,16 @@
-## Hello 👋
-
-I'm [Alexandre](https://en.wikipedia.org/wiki/Alexandre_(given_name)) and I am currently enrolled in a Master's program in [Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2021&pv_origem=CUR&pv_tipo_cur_sigla=M&pv_curso_id=22862) at [University of Porto](https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home).
-
-## Technologies
-
-### Languages that I like
-
-[![Python](https://img.shields.io/badge/Python-326B9B?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED1A20?logo=java&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/)
-[![PHP](https://img.shields.io/badge/PHP-787CB5?logo=php&logoColor=white&style=for-the-badge)](https://www.php.net/)
-[![C](https://img.shields.io/badge/C-1476B5?logo=c&logoColor=white&style=for-the-badge)](https://www.iso.org/standard/74528.html)
-[![JavaScript](https://img.shields.io/badge/JavaScript-EAD41C?logo=javascript&logoColor=black&style=for-the-badge)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![Haskell](https://img.shields.io/badge/Haskell-5E5086?logo=haskell&logoColor=white&style=for-the-badge)](https://www.haskell.org/)
-[![C++](https://img.shields.io/badge/C++-00599D?logo=cplusplus&logoColor=white&style=for-the-badge)](https://isocpp.org)
-[![Prolog](https://img.shields.io/badge/Prolog-E2371C?logo=data:image/webp;base64,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&logoColor=white&style=for-the-badge)](https://www.iso.org/standard/21413.html)
-
-### Languages that I want to learn
-
-[![Scala](https://img.shields.io/badge/Scala-DF311E?logo=scala&logoColor=white&style=for-the-badge)](https://www.scala-lang.org/)
-[![Rust](https://img.shields.io/badge/Rust-FFFFFF?logo=rust&logoColor=black&style=for-the-badge)](https://www.rust-lang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
-[![Racket](https://img.shields.io/badge/Racket-A0171A?logo=racket&logoColor=white&style=for-the-badge)](https://racket-lang.org/)
-[![Elixir](https://img.shields.io/badge/Elixir-553363?logo=elixir&logoColor=white&style=for-the-badge)](https://elixir-lang.org/)
+<pre><code><img src="img/xkcd.png" style="float: left; padding-right: 2ch;height: 20em"><div>xbreu@github
+------------
+Name: Alexandre Abreu
+Uptime: 22 years
+Location: Brazil -> Portugal
+Alma mater: <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home">University of Porto</a>
+Working on:
+    - Machine learning research
+    - <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2021&pv_origem=CUR&pv_tipo_cur_sigla=M&pv_curso_id=22862">Master's degree in Computer Engineering</a>
+Learning:
+    - Formal methods
+    - Advanced data structures
+    - Logic programming
+    - Functional programming
+Contacts: <a href="mailto:xbreu.contact@gmail.com">E-mail</a> and <a href="https://www.linkedin.com/in/xbreu/">LinkedIn</a>
+</div></code></pre>
