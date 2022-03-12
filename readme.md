@@ -1,4 +1,4 @@
-<pre><code><img src="img/xkcd.png" style="float: left; padding-right: 2ch;height: 20em"><div>xbreu@github
+<pre><code><img src="./img/xkcd.png" style="float: left; padding-right: 2ch;height: 20em"><div>xbreu@github
 ------------
 Name: Alexandre Abreu
 Uptime: 22 years
