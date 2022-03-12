@@ -13,5 +13,5 @@ Learning:
     - Advanced data structures
     - Logic programming
     - Functional programming
-Contacts: <a href="mailto:xbreu.contact@gmail.com">E-mail</a> and <a href="https://www.linkedin.com/in/xbreu/">LinkedIn</a>
+Contacts: <a href="mailto:xbreu@hotmail.com">E-mail</a> and <a href="https://www.linkedin.com/in/xbreu/">LinkedIn</a>
 </div></code></pre>
