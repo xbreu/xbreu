@@ -7,7 +7,7 @@ Location: Brazil -> Portugal
 Alma mater: <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home">University of Porto</a>
 Working on:
     - Machine learning research
-    - <a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2021&pv_origem=CUR&pv_tipo_cur_sigla=M&pv_curso_id=22862">Master's degree in Computer Engineering</a>
+    - <a href="https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=22862">Master's degree in Computer Engineering</a>
 Learning:
     - Formal methods
     - Advanced data structures
