@@ -6,7 +6,7 @@ Uptime: 22 years
 Location: Brazil -> Portugal
 Alma mater: <a href="https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home">University of Porto</a>
 Working on:
-    - <a href="https://sigarra.up.pt/feup/en/projectos_geral.ficha_projecto?p_id=74436">Research fellowship in the Safe Cities project</a>
+    - Research fellowship within the framework of project <a href="https://sigarra.up.pt/feup/en/projectos_geral.ficha_projecto?p_id=74436">Safe Cities</a>
     - <a href="https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=22862">Master's degree in Computer Engineering</a>
 Learning:
     - Formal methods
